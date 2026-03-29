@@ -1,5 +1,8 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### Flux Klein 9b KV Head Swap
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Flux%20Klein%209b%20KV%20Head%20Swap.ipynb)
+
 ### LTX2_3_T2V_I2V
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/LTX2_3_T2V_I2V.ipynb)
 
@@ -26,3 +29,4 @@
 
 ### Flux Klein 4B Outpainting Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Flux%20Klein%204B%20Outpainting%20Colab.ipynb)
+
