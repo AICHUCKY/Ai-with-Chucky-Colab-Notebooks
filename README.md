@@ -1,5 +1,8 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### Ace Step 1.5 XL Turbo Community Version
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Ace_step_1_5_XL_Turbo_Community_version.ipynb)
+
 ### Flux Klein 9b KV Head Swap
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Flux%20Klein%209b%20KV%20Head%20Swap.ipynb)
 
@@ -29,4 +32,3 @@
 
 ### Flux Klein 4B Outpainting Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Flux%20Klein%204B%20Outpainting%20Colab.ipynb)
-
