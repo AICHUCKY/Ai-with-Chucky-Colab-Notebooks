@@ -12,11 +12,9 @@
 ### MatAnyone2 Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/MatAnyone2%20Colab.ipynb)
 
-### ComfyUI Colab Upgraded
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI%20Colab%20Upgraded.ipynb)
 
-### ComfyUI Optimized notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI_Optimized.ipynb)
+### ComfyUI Optimized V2 notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI_Optimized_V2.ipynb)
 
 ### Z-Image Turbo Pro
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Z_Image_Turbo_Pro.ipynb)
