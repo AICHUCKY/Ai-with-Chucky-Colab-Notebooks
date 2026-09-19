@@ -1,5 +1,8 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### Yue2 Text to Music Colab Version
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/YUE2_Colab.ipynb)
+
 ### Ace Step 1.5 XL Turbo Community Version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Ace_step_1_5_XL_Turbo_Community_version.ipynb)
 
