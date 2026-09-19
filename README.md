@@ -1,7 +1,11 @@
 # Ai-with-Chucky-Colab-Notebooks
 
 ### Yue2 Text to Music Colab Version
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/YUE2_Colab.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Yue2_text2music.ipynb)
+
+### ComfyUI Optimized V2 notebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI_Optimized_V2.ipynb)
+
 
 ### Ace Step 1.5 XL Turbo Community Version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Ace_step_1_5_XL_Turbo_Community_version.ipynb)
@@ -14,10 +18,6 @@
 
 ### MatAnyone2 Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/MatAnyone2%20Colab.ipynb)
-
-
-### ComfyUI Optimized V2 notebook
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/ComfyUI_Optimized_V2.ipynb)
 
 ### Z-Image Turbo Pro
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Z_Image_Turbo_Pro.ipynb)
