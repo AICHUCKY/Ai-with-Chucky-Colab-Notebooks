@@ -1,5 +1,8 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### Yue2 Cover Music Generator Colab Version
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/YuE2%20Cover%20Music%20Studio.ipynb)
+
 ### Yue2 Text to Music Colab Version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Yue2_text2music.ipynb)
 
