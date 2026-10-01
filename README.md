@@ -1,5 +1,9 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### Qwen Image 2.1 T2I with LORa Support
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Qwen_Image_2_1.ipynb)
+
+
 ### Yue2 Cover Music Generator Colab Version
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/YuE2%20Cover%20Music%20Studio.ipynb)
 
