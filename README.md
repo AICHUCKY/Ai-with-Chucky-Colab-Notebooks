@@ -1,5 +1,8 @@
 # Ai-with-Chucky-Colab-Notebooks
 
+### Idol Image to 3D Colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Idol%203d%20Colab.ipynb)
+
 ### Qwen Image Edit 2.1 Up to 10 Reference Images
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Qwen%20Image%202.1%20EDIT.ipynb)
 
