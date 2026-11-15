@@ -1,4 +1,6 @@
 # Ai-with-Chucky-Colab-Notebooks
+### Minimax H3 Image
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Minimax_H3_Image.ipynb)
 
 ### Idol Image to 3D Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AICHUCKY/Ai-with-Chucky-Colab-Notebooks/blob/main/Idol%203d%20Colab.ipynb)
